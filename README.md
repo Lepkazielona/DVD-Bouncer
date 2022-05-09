@@ -3,7 +3,7 @@
 
 <p align="center">
  <br>
-  <img src="https://raw.githubusercontent.com/Lepkazielona/DVD-Bouncer/main/media/bouncing.gif?token=GHSAT0AAAAAABUD4M2FXOPUSGFSWNOAV3XOYTZQZOQ" />
+  <img src="https://github.com/Lepkazielona/DVD-Bouncer/blob/main/media/bouncing.gif" />
 </p>
 
  
